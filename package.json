@@ -1,0 +1,27 @@
+{
+  "name": "post-data",
+  "version": "0.0.0",
+  "description": "A simple function to get the post data from a NodeJS request",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "request": "*",
+    "fox": "*"
+  },
+  "keywords": [
+    "post",
+    "request",
+    "data"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/post-data.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "dependencies": {
+    "formidable": "~1.0.14"
+  }
+}
