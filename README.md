@@ -1,4 +1,4 @@
-## post-data
+## post-data [![Build Status](https://travis-ci.org/azer/post-data.png)](https://travis-ci.org/azer/post-data)
 
 Minimalistic wrapper around `formidable`.
 
